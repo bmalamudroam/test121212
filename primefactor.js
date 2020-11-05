@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var obj = {};
 var populateObjWithPrimeFactor = function(obj, num) {
   if (isPrime(num)) {
@@ -30,3 +31,6 @@ var isPrime = function(num) {
   }
   return true;
 };
+=======
+
+>>>>>>> a4b0da639a5acc3366b9c737f944f72f62f0258f
